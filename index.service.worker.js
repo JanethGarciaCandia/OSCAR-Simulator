@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1788989606|960971036';
+const CACHE_VERSION = '1788991244|65041805';
 /** @type {string} */
 const CACHE_PREFIX = 'OSCAR Simulator-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
